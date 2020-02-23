@@ -1,6 +1,6 @@
 FROM mhart/alpine-node:6.9.1
 
-MAINTAINER Talento90
+MAINTAINER michelePaglialonga
 
 # create a specific user to run this container
 RUN adduser -S -D user-app

@@ -32,4 +32,4 @@ A NodeJS + HapiJS(17) with Typescript Starter kit to build standard projects.
 
 Running on port 5000 ex: localhost:5000/docs
 
-Have fun :)
+
